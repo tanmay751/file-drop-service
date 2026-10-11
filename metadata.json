@@ -1,0 +1,6 @@
+{
+  "name": "InstantDrop - In-Store P2P Drop Station",
+  "description": "Instant walk-in P2P file transfer portal and in-store counter drop target with zero cloud footprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
